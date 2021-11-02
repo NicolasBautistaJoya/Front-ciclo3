@@ -1,0 +1,94 @@
+#cabecera {
+    width: 96%;
+    height: 140px;
+    padding: 0% 2%;
+    background-color: #1d99ca;
+    }
+    #cabecera > div {
+    width: 920px;
+    margin: 0px auto;
+    padding-top: 35px;
+    }
+    #cabecera h1 {
+    font: bold 54px Black, sans-serif;
+    color: #ffffff;
+    }
+    #menu {
+        width: 96%;
+        height: 50px;
+        padding: 0% 2%;
+        background-color: #9FC8D9;
+        border-top: 1px solid #094660;
+        border-bottom: 1px solid #094660;
+        }
+        #menu > div {
+        width: 960px;
+        margin: 0px auto;
+        }
+        #menu li {
+            display: inline-block;
+            height: 35px;
+            padding: 10px 10px 0px 10px;
+            margin-right: 5px;
+            }
+            #menu li:hover {
+            background-color: #6FACC6;
+            }
+            #menu a {
+            font: bold 22px Black, sans-serif;
+            color: #333333;
+            text-decoration: none;
+            }
+            
+            img {
+            width: 65%;
+            height: -20%;
+            padding: 0%;                
+            left: 280px;
+            position: relative;  
+            }
+                                                        
+                
+                #infoadicional h1 {
+                font: bold 18px Arial, sans-serif;
+                color: #333333;
+                margin-bottom: 15px;
+                }
+                .recuperar {
+                clear: both;
+                }               
+                    
+                        #pielogo {
+                            width: 96%;
+                            padding: 2%;
+                            background-color: #0F76A0;
+                            bottom: -180px;
+                            }
+                            #pielogo > div {
+                            width: 960px;
+                            margin: 0px auto;
+                            background-color: #7ab2ca;
+                            border-radius: 10px;
+                            top: 80px;
+                            }
+                            .seccionpie {
+                            float: left;
+                            width: 270px;
+                            padding: 25px;
+                            }
+                            .seccionpie h1 {
+                                font: bold 20px Arial, sans-serif;
+                                }
+                                .seccionpie p {
+                                margin-top: 5px;
+                                }
+                                .seccionpie a {
+                                font: bold 16px Arial, sans-serif;
+                                color: #666666;
+                                text-decoration: none;
+                                }
+                                .seccionpie {
+                                    float: left;
+                                    width: 27.33%;
+                                    padding: 3%;
+                                    }
